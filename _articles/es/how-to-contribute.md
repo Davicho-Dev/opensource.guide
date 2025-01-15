@@ -374,7 +374,7 @@ Sin importar si eres un colaborador para una sola vez o est&aacute;s intentando 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[Como un nuevo colaborador,\] me di cuenta r&aacute;pidamente que necesitaba hacer preguntas si quer&iacute;a poder cerrar el problema. Recorr&iacute; el c&oacute;digo base. Una vez que comprend&iacute; lo que estaba ocurriendo, pregunt&eacute; que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.
+  \[Como nuevo colaborador,\] r&aacute;pidamente me di cuenta de que deb&iacute;a hacer preguntas si quer&iacute;a poder resolver el problema. Le ech&eacute; un vistazo al c&oacute;digo base y, una vez que tuve una idea de lo que estaba pasando, ped&iacute; m&aacute;s orientaci&oacute;n. ¡Y voilà! Pude resolver el problema despu&eacute;s de obtener todos los detalles relevantes que necesitaba.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
